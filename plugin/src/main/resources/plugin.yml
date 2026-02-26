@@ -1,4 +1,4 @@
-name: ZNPCsPlus
+name: NPCs
 authors:
   - Pyr
   - D3v1s0m
@@ -29,5 +29,6 @@ commands:
     aliases:
       - znpc
       - znpcs
+      - citizens
       - npcs
     permission: znpcsplus.command.npc
